@@ -1,4 +1,4 @@
 [core]
     remote = remote
 ['remote "remote"']
-    url = ../swiggy-top3-recco/tmp
+    url = ../tmp
